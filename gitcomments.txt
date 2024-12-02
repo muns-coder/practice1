@@ -1,0 +1,22 @@
+GIT BRANCHES
+  
+* Create branch : 
+ (Create Branches<br-name>) 
+  ex -> (Git Branches new_Branch)
+ 
+* View Branches
+ (git branch or git branch --list) 
+  Ex --> (git branch)
+  
+* Delete Br
+  (git branch -d <br_name>)
+  Ex --> (git branch -d new_Branch)
+
+* Checkout     :
+ (Change or Switch the branch dict) 
+  Ex--> (git checkout <br-name>)
+
+* Create and change dictbranch 
+ (Create checkout -b <br-name>) 
+  Ex --> (git checkout -b new_Branch)
+  
